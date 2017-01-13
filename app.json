@@ -5,6 +5,7 @@
   "repository": "https://github.com/rakam-io/rakam",
   "logo": "https://avatars3.githubusercontent.com/u/18196166?v=3&s=200",
   "success_url": "/",
+  "stack": "heroku-16",
   "keywords": [
     "analytics",
     "chart",
